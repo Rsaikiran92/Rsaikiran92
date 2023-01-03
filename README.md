@@ -1,9 +1,18 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
-<h3 align="center">As Full Stack Wb Developer wish to be a part of your organization with 1000+ hours of coding experience</h3>
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
+<h3 align="center">As Full Stack Web Developer wish to be a part of your organization with 1000+ hours of coding experience</h3>
+<img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
+
+- 🌱 I’m currently learning **MERN Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
+
+- 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
+
+- 📫 How to reach me **ssaikiran92rk@gmail.com**
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
