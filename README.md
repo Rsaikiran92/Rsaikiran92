@@ -28,7 +28,7 @@
 <a href="http://www.github.com/Rsaikiran92">
 <img
     src="https://github-readme-stats.vercel.app/api?username=Rsaikiran92&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true"
-    alt="shubhamkr2's GitHub stats" /></a>
+    alt="Rsaikiran92 GitHub stats" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsaikiran92&" alt="rsaikiran92" /></p>
 
 
