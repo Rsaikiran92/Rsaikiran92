@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
 
-- 📫 How to reach me **ssaikiran92rk@gmail.com**
+- 📫 How to reach me **saikiran92rk@gmail.com**
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
