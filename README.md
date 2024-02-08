@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Web Development**
+/*- 🌱 I’m currently learning **MERN Stack Web Development***/
 
 - 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
 
