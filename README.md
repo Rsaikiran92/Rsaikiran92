@@ -12,7 +12,11 @@
 - 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
 
 - 📫 How to reach me **saikiran92rk@gmail.com**
-
+- Experience
+  Homepreneur Solutions Private Limited , Bengaluru
+  Application specialist | July 2023 - Jan 2024
+  -We specialize in crafting customized bot solutions to the clients where we developoy bot for the clients accouding to the client requirements
+  -We utilized React for the front-end and Node.js for the back-end to design and develop a bespoke tool tailored to the company's requirements, ensuring seamless functionality 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
