@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **saikiran92rk@gmail.com**
 - Experience<br/>
-  Homepreneur Solutions Private Limited , Bengaluru<br/>
-  Application specialist | July 2023 - Jan 2024<br/>
+  **Homepreneur Solutions Private Limited , Bengaluru<br/>
+  Application specialist | July 2023 - Jan 2024<br/>**
   -We specialize in crafting customized bot solutions to the clients where we developoy bot for the clients accouding to the client requirements
   <br/>
   -We utilized React for the front-end and Node.js for the back-end to design and develop a bespoke tool tailored to the company's requirements, ensuring seamless functionality 
