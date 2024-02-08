@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
-<h3 align="center">As Full Stack Web Developer wish to be a part of your organization with 1000+ hours of coding experience</h3>
+<h3 align="center">Experience Full Stack Web Developer with Proficiency in HTML, CSS, JavaScript, React, and Redux with intuitive problem-solving skills. Passionate about developing and deploying MERN-based projects, both in collaboration and independently. With the ability to understand business requirements and translate them into technical solutions.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
