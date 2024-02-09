@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
 
-- 💬 Ask me about **⚡ I'm a passionate Full Stack Web Developer and I am interested in developing new things which excite me a lot. I love exploring new technologies, I like to stay on top of latest trends!**
 
 - 📫 How to reach me **saikiran92rk@gmail.com**
 - Experience<br/>
