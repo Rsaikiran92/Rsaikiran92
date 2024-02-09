@@ -14,9 +14,10 @@
 - Experience<br/>
   **Homepreneur Solutions Private Limited , Bengaluru<br/>
   Application specialist | July 2023 - Jan 2024<br/>**
-  -We specialize in crafting customized bot solutions to the clients where we developoy bot for the clients accouding to the client requirements
   <br/>
-  -We utilized React for the front-end and Node.js for the back-end to design and develop a bespoke tool tailored to the company's requirements, ensuring seamless functionality 
+  -Developed and maintained Group Tool, a React.js and HTML-based application for group management , send message ,  scheduling group lock and message scheduling. Collaborated with backend team, designed UI, and ensured seamless functionality
+  <br/>
+  -Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
