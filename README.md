@@ -54,9 +54,12 @@ Experienced in working on real-world projects, contributing to both frontend and
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
+<h2 align="center">📊 My Github Stats</h2>
+<br/> 
+<br/> 
+<div align="center">
 <a href="http://www.github.com/Rsaikiran92">
+</div>
 <img
     src="https://github-readme-stats.vercel.app/api?username=Rsaikiran92&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true"
     alt="Rsaikiran92 GitHub stats" /></a>
