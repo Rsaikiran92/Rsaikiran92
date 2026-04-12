@@ -1,7 +1,9 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
-<h3 align="justify">Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.
-
+<h3 align="justify">Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.</h3>
+ <br/>
+ <br/>
+<h3 align="justify">
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
@@ -58,14 +60,9 @@ Experienced in working on real-world projects, contributing to both frontend and
 <br/> 
 <br/> 
 <div align="center">
-<a href="http://www.github.com/Rsaikiran92">
-</div>
-<img
-    src="https://github-readme-stats.vercel.app/api?username=Rsaikiran92&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true"
-    alt="Rsaikiran92 GitHub stats" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" /></p>
 
-<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
 </div>
 
