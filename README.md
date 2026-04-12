@@ -62,4 +62,9 @@ Experienced in working on real-world projects, contributing to both frontend and
     alt="Rsaikiran92 GitHub stats" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" /></p>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
+</div>
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
