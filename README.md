@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
 <h3 align="justify">Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.</h3>
  <br/>
- <br/>
 <h3 align="justify">
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
