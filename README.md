@@ -71,8 +71,13 @@ Experienced in working on real-world projects, contributing to both frontend and
 </div>
 
 ## 📱 Connect with me
-![Gmail]("https://mail.google.com/mail/u/0/#inbox" target="_blank")
-![LinkedIn]("https://linkedin.com/in/r sai kiran")
+<a href="https://twitter.com/Souravpl500">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/r sai kiran">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
