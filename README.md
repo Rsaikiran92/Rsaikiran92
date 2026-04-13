@@ -3,11 +3,12 @@
 <h3 align="justify">Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.</h3>
 <h3 align="justify">
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
-<img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
-## 💫 About Me:
 <p align="left" paddingTop="10px"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
+## 💫 About Me:
+
+<img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
 
 
