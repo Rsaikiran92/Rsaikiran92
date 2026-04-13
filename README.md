@@ -62,7 +62,7 @@ Experienced in working on real-world projects, contributing to both frontend and
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h2 align="center">📊 My Github Stats</h2>
+## 📊 My Github Stats
 <br/> 
 <br/> 
 <div align="center">
@@ -71,6 +71,19 @@ Experienced in working on real-world projects, contributing to both frontend and
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
 </div>
+
+## 📱 Connect with me
+<br />
+<p align="center">
+  
+   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+
+<a href="https://linkedin.com/in/r sai kiran">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
