@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/zWqFfMQx/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="Black-and-White-Simple-Art-Director-Linked-In-Banner" border="0">
+<img width="100%" src="https://i.ibb.co/zWqFfMQx/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="Black-and-White-Simple-Art-Director-Linked-In-Banner" border="0">
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
 Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.
 
@@ -32,12 +32,12 @@ Experienced in working on real-world projects, contributing to both frontend and
   <br/>
   ➡️ Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r sai kiran" height="30" width="40" /></a>
 <a href="https://fb.com/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r sai kiran" height="30" width="40" /></a>
 <a href="https://instagram.com/saikiran92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran92" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ## 🛠️ Tech Stack & Tools
 
