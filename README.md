@@ -5,10 +5,11 @@
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
+## 💫 About Me:
 <p align="left" paddingTop="10px"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
 
-## 💫 About Me:
+
 
 - 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
 - 🚀 Full Stack Developer with **7 months of experience** in designing, developing, and maintaining scalable web applications.  
