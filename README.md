@@ -5,22 +5,20 @@
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
+## 💫 About Me:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
 
 
 - 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
-
-
-- 📫 How to reach me **saikiran92rk@gmail.com**
-- Experience<br/>
-  **Homepreneur Solutions Private Limited , Bengaluru<br/>
-  Application specialist | July 2023 - Jan 2024<br/>**
-  <br/>
-  ➡️ Developed and maintained Group Tool, a React.js and HTML-based application for group management , send message ,  scheduling group lock and message scheduling. Collaborated with backend team, designed UI, and ensured seamless functionality
-  <br/>
-  <br/>
-  ➡️ Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
+- 🚀 Full Stack Developer with **7 months of experience** in designing, developing, and maintaining scalable web applications.  
+- 🌱 Currently enhancing my skills in **Next.js, and performance optimization**.  
+- 💻 Passionate about crafting **user-friendly and efficient web solutions** using modern technologies.  
+- 👨‍💻 Check out my work here: [**Portfolio**](https://rsaikiran92.github.io)  
+- 💬 Ask me about **React, Node.js, Express, Redux Toolkit, Tailwind CSS, MongoDB**  
+- 📫 Reach me at **saikiran92rk@gmail.com** 
+- 📄 [**Resume**](https://drive.google.com/file/d/11uSzLrKAIq_4as4gkrAAxi_nPxgtU1S3/view) | [**LinkedIn**](https://www.linkedin.com/in/r-sai-kiran-451a07232/)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -30,6 +28,15 @@ Experienced in working on real-world projects, contributing to both frontend and
 <a href="https://fb.com/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r sai kiran" height="30" width="40" /></a>
 <a href="https://instagram.com/saikiran92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran92" height="30" width="40" /></a>
 </p>
+
+## 💼 Professional Experience
+
+### **Homepreneur Solutions Private Limited , Bengaluru** *(July 2023 - Jan 2024)*
+<br/>
+  ➡️ Developed and maintained Group Tool, a React.js and HTML-based application for group management, sending messages,  scheduling group lock, and message scheduling. Collaborated with the backend team, designed UI, and ensured seamless functionality
+  <br/>
+  <br/>
+  ➡️ Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
 
 ## 🛠️ Tech Stack & Tools
 
