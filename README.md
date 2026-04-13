@@ -66,7 +66,7 @@ Experienced in working on real-world projects, contributing to both frontend and
 <br/> 
 <br/> 
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" /></p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
 </div>
 
