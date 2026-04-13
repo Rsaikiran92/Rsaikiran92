@@ -21,7 +21,6 @@ Experienced in working on real-world projects, contributing to both frontend and
 - 📫 Reach me at **saikiran92rk@gmail.com** 
 - 📄 [**Resume**](https://drive.google.com/file/d/11uSzLrKAIq_4as4gkrAAxi_nPxgtU1S3/view) | [**LinkedIn**](https://www.linkedin.com/in/r-sai-kiran-451a07232/)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ## 💼 Professional Experience
