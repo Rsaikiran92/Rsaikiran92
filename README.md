@@ -5,11 +5,10 @@
 Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.</h3>
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
-## 💫 About Me:
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
 
+## 💫 About Me:
 
 - 👨‍💻 All of my projects are available at [https://rsaikiran92.github.io](https://rsaikiran92.github.io)
 - 🚀 Full Stack Developer with **7 months of experience** in designing, developing, and maintaining scalable web applications.  
@@ -22,12 +21,6 @@ Experienced in working on real-world projects, contributing to both frontend and
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r sai kiran" height="30" width="40" /></a>
-<a href="https://fb.com/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r sai kiran" height="30" width="40" /></a>
-<a href="https://instagram.com/saikiran92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran92" height="30" width="40" /></a>
-</p>
 
 ## 💼 Professional Experience
 
@@ -37,6 +30,13 @@ Experienced in working on real-world projects, contributing to both frontend and
   <br/>
   <br/>
   ➡️ Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r sai kiran" height="30" width="40" /></a>
+<a href="https://fb.com/r sai kiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r sai kiran" height="30" width="40" /></a>
+<a href="https://instagram.com/saikiran92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saikiran92" height="30" width="40" /></a>
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
