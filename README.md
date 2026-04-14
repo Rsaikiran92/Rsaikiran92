@@ -6,7 +6,6 @@
 
 **Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.**
 
-<p align="left" paddingTop="10px"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
 ## 💫 About Me:
 
@@ -23,7 +22,7 @@
 - 📫 Reach me at **saikiran92rk@gmail.com** 
 - 📄 [**Resume**](https://drive.google.com/file/d/11uSzLrKAIq_4as4gkrAAxi_nPxgtU1S3/view) | [**LinkedIn**](https://www.linkedin.com/in/r-sai-kiran-451a07232/)
 
-
+<p align="left" paddingTop="10px"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
 ## 💼 Professional Experience
 
@@ -74,7 +73,6 @@
 <br/> 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" /></p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
 </div>
 
 ## 📱 Connect with me
@@ -86,6 +84,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=white&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+it...👨🏻‍💻;" style="width: 50%;">
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
