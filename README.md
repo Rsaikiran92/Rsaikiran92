@@ -25,12 +25,17 @@ Experienced in working on real-world projects, contributing to both frontend and
 
 ## 💼 Professional Experience
 
-### **Homepreneur Solutions Private Limited , Bengaluru** *(July 2023 - Jan 2024)*
-<br/>
-  ➡️ Developed and maintained Group Tool, a React.js and HTML-based application for group management, sending messages,  scheduling group lock, and message scheduling. Collaborated with the backend team, designed UI, and ensured seamless functionality
-  <br/>
-  <br/>
-  ➡️ Engineered bots for cab booking, customer support, and e-commerce, streamlining operations and enhancing user experience. Implemented efficient ticket-raising systems and seamless clothing ordering, optimizing client interaction and service delivery.
+### **Application Specialist – Homepreneur Solutions Private Limited, Bengaluru** *(July 2023 - Jan 2024)*
+- **Group Tool** – Management Platform
+  - Built responsive UI with **React, Redux Toolkit, Chakra UI**.  
+  - Developed secure backend APIs using **Node.js, Express**, and **MongoDB**.  
+  - Developed features for group messaging, scheduling group locks, and message automation.
+  - Collaborated with backend teams to ensure smooth API integration and real-time data handling.
+ 
+- **Chatbot Development**  
+  - Designed and implemented chatbot flows for cab booking, customer support, and e-commerce platforms.
+  - Automated processes like ticket raising, order placement, and user queries improve user experience.
+  - Integrated APIs and handled dynamic responses for seamless conversational flow.
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
