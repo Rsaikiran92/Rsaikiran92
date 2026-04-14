@@ -1,8 +1,10 @@
 <img width="100%" src="https://i.ibb.co/zWqFfMQx/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="Black-and-White-Simple-Art-Director-Linked-In-Banner" border="0">
 <h1 align="center">Hi 👋, I'm R Sai Kiran</h1>
-Full Stack Web Developer (MERN Stack) hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.
 
-Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.
+**Full Stack Web Developer (MERN Stack) with hands-on experience in building responsive and scalable web applications using HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, and MongoDB. Skilled in developing intuitive user interfaces and implementing backend functionalities, including RESTful APIs and basic database design.**
+
+
+**Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.**
 
 <p align="left" paddingTop="10px"> <img src="https://komarev.com/ghpvc/?username=rsaikiran92&label=Profile%20views&color=0e75b6&style=flat" alt="rsaikiran92" /> </p>
 
