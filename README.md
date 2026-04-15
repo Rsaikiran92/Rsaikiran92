@@ -72,6 +72,9 @@
 <br/> 
 <br/> 
 <div align="center">
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsaikiran92&layout=compact&theme=radical" alt="Rsaikiran92" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rsaikiran92&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="rsaikiran92" /></p>
 </div>
 
