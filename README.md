@@ -7,7 +7,7 @@
 **Experienced in working on real-world projects, contributing to both frontend and backend development, and ensuring smooth integration between client and server. Familiar with version control using Git and deploying applications on platforms like Netlify and Vercel.**
 
 
-# 💫 About Me:
+## 💫 About Me:
 
 <img align="right" alt="coding" width="400"  src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  >
 
